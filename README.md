@@ -34,7 +34,6 @@ The objective of this repository is to build practical Git knowledge while maint
 
 ## Repository Structure
 
-```
 Lab01-GitHub-SSH-Authentication/
 Lab02-Git-Basics/
 Lab03-Repository-Management/
@@ -47,7 +46,7 @@ Lab09-Git-Troubleshooting/
 screenshots/
 notes/
 cheatsheets/
-```
+
 
 ---
 
